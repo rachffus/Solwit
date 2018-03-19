@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solwit.Api", "Solwit.Api\Solwit.Api.csproj", "{70302EC3-8B02-434F-B8D2-8C3E47B20D56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solwit.Core", "Solwit.Core\Solwit.Core.csproj", "{34E8E9E0-A229-4466-8042-3DC7861D9327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solwit.UI", "Solwit.UI\Solwit.UI.csproj", "{F543E49D-EB68-4A37-87B2-43D205DA01B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70302EC3-8B02-434F-B8D2-8C3E47B20D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70302EC3-8B02-434F-B8D2-8C3E47B20D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70302EC3-8B02-434F-B8D2-8C3E47B20D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70302EC3-8B02-434F-B8D2-8C3E47B20D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E8E9E0-A229-4466-8042-3DC7861D9327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E8E9E0-A229-4466-8042-3DC7861D9327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E8E9E0-A229-4466-8042-3DC7861D9327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E8E9E0-A229-4466-8042-3DC7861D9327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F543E49D-EB68-4A37-87B2-43D205DA01B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F543E49D-EB68-4A37-87B2-43D205DA01B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F543E49D-EB68-4A37-87B2-43D205DA01B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F543E49D-EB68-4A37-87B2-43D205DA01B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5B433DA-CC5B-4D23-BB80-0738A9A19B5C}
+	EndGlobalSection
+EndGlobal
